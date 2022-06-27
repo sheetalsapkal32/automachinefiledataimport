@@ -1,0 +1,19 @@
+machine_id ,testid,test_type,result
+machine_1,P123,RBC,4.9
+machine_1,P124,WBC,"6,500"
+machine_1,P125,LFT,12
+machine_1,P126,TSH ,1.55
+machine_1,P127,URINE,18
+machine_1,P128,INR ,124
+machine_2,P123,RBC,6
+machine_2,P124,WBC,"8,000"
+machine_2,P125,LFT,12
+machine_2,P126,TSH ,1.55
+machine_2,P127,URINE,18
+machine_2,P128,INR ,123
+machine_3,P123,RBC,4.9
+machine_3,P124,WBC,"12,000"
+machine_3,P125,LFT,12
+machine_3,P126,TSH ,1.66
+machine_3,P127,URINE,20
+machine_3,P128,INR ,123
